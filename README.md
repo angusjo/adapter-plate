@@ -1,6 +1,10 @@
 # adapter-plate
 
-leaf gen 2 em57 motor to subaru 4mt d/r transmission adapter plate with bearing bore 
+leaf gen 2 em57 motor adapter plate with bore for a support bearing for the coupler available from BRAT INDUSTRIES 
+
+Contact me at angusjohnson@protonmail.com to inquire about Nissan Leaf motor couplers.
+
+Files may still contain the bolt pattern for a ea81 subaru 4mt d/r bell housing.
 
 bearing: https://www.skf.com/ca/en/products/rolling-bearings/ball-bearings/angular-contact-ball-bearings/single-row-angular-contact-ball-bearings/productid-7208%20BE-2RZP
 
