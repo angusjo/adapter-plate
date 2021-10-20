@@ -12,3 +12,11 @@ bearing: https://www.skf.com/ca/en/products/rolling-bearings/ball-bearings/angul
 *UPDATE 25/08/2021 proper bearing is the 7208 be-2rzp a sealed angular contact bearing.
  
 Do not use the specd dimensions in the cad file, instead refer to the drawing. Talk with your local machinest about bearing bore fittment. As if they referred to the cad file, the bore will be incorrect and you will not have proper bearing fittment.
+
+
+
+
+Designs are open and free to use under the folwing conditions:
+-Credit is givin for reproduced work
+-designs are not reproduced for profite
+-new changes are shared
