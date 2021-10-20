@@ -17,6 +17,9 @@ Do not use the specd dimensions in the cad file, instead refer to the drawing. T
 
 
 Designs are open and free to use under the folwing conditions:
+
 -Credit is givin for reproduced work
--designs are not reproduced for profite
+
+-designs are not reproduced for profit
+
 -new changes are shared
