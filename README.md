@@ -2,7 +2,9 @@
 
 Nissan Leaf gen2 em57 motor universal adapter plate. em57 to B-face motor bolt pattern.  Center bore is for a optional support bearing for the motor coupler(fits both em61 and em57 motors) available from BRAT INDUSTRIES. With direct drive applications, a bearing is not nessasery.
 
-Contact me at angusjohnson@protonmail.com to inquire about Nissan Leaf motor couplers.
+Latest version of adapter plates and couplers are available at www.bratindustries.net
+
+Contact me at info@bratindustries.net to inquire about Nissan Leaf motor couplers.
 
 
 bearing: https://www.skf.com/ca/en/products/rolling-bearings/ball-bearings/angular-contact-ball-bearings/single-row-angular-contact-ball-bearings/productid-7208%20BE-2RZP
